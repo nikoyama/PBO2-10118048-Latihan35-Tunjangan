@@ -14,7 +14,7 @@ import java.util.Scanner;
  * NAMA : Niko Yama
  * KELAS : PBO2
  * NIM : 10118048
- * Deskripsi program : 
+ * Deskripsi program : menghitung tunjangan dan total gaji
  */
 public class PBO210118048Latihan35Tunjangan {
 

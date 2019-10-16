@@ -12,7 +12,7 @@ package pbo2.pkg10118048.latihan35.tunjangan;
  * NAMA : Niko Yama
  * KELAS : PBO2
  * NIM : 10118048
- * Deskripsi program :
+ * Deskripsi program : menghitung tunjangan dan total gaji
  */
 public class Karyawan {
     
